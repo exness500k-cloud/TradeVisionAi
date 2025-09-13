@@ -1,0 +1,101 @@
+4️⃣ Technical Analysis Tools
+1️⃣ Trend Indicators
+Trend identify korte use hoy:
+Moving Average (MA) – Simple (SMA) / Exponential (EMA)
+MACD (Moving Average Convergence Divergence) – Trend + momentum
+Parabolic SAR – Trend reversal points
+---
+2️⃣ Momentum Indicators
+Momentum measure kore, overbought/oversold signals dey:
+RSI (Relative Strength Index) – 0–100 scale, overbought >70, oversold <30
+Stochastic Oscillator – Overbought/oversold, momentum
+CCI (Commodity Channel Index) – Price deviation from average
+---
+3️⃣ Volatility Indicators
+Market-er volatility measure kore:
+Bollinger Bands – Price range + volatility
+ATR (Average True Range) – True volatility measure
+---
+4️⃣ Volume Indicators
+Price movement confirm korte use hoy:
+OBV (On-Balance Volume) – Buying/Selling pressure
+Volume Oscillator – Volume trend detect
+---
+5️⃣ Support / Resistance & Others
+Fibonacci Retracement / Extension – Support & resistance zones
+Pivot Points – Intraday support/resistance levels
+
+ADD Candlestick Patterns: 
+1️⃣ Single Candlestick Patterns
+Hammer
+Hanging Man
+Inverted Hammer
+Shooting Star
+Spinning Top
+Doji
+Standard Doji
+Dragonfly Doji
+Gravestone Doji
+---
+2️⃣ Double Candlestick Patterns
+Bullish Engulfing
+Bearish Engulfing
+Piercing Line
+Dark Cloud Cover
+Harami
+Bullish Harami
+Bearish Harami
+Tweezers
+Tweezer Bottom
+Tweezer Top
+---
+3️⃣ Triple Candlestick Patterns
+Morning Star
+Evening Star
+Three White Soldiers
+Three Black Crows
+Three Inside Up
+Three Inside Down
+Three Outside Up
+Three Outside Down
+---
+4️⃣ Other Popular / Advanced Patterns
+Marubozu
+Abandoned Baby
+Upside Gap Two Crows
+Downside Gap Three Methods. 
+Add Chart Patterns: 
+1️⃣ Continuation Patterns
+Flag (Bullish / Bearish)
+Pennant (Bullish / Bearish)
+Rectangle / Trading Range
+Wedge (Falling / Rising)
+Cup and Handle
+---
+2️⃣ Reversal Patterns
+Head and Shoulders
+Standard Head & Shoulders (Bearish Reversal)
+Inverse Head & Shoulders (Bullish Reversal)
+Double Top
+Double Bottom
+Triple Top
+Triple Bottom
+Rounding Bottom / Saucer Bottom
+---
+3️⃣ Other Popular / Advanced Patterns
+Broadening Formation / Megaphone
+Diamond Top / Bottom
+Channel / Trend Channel
+Gap Patterns
+Breakaway Gap
+Runaway / Measuring Gap
+Exhaustion Gap
+---
+
+Ensemble approach: confirm signal if majority strategies + indicators + patterns agree. 
+For Generate Super High accuracy Signals
+
+8️⃣ Backtesting & Continuous Improvement
+Historical Data Backtesting
+Continuous Training & Optimization to be more improve
+To Maintain consistent 70–85%+ win rate
